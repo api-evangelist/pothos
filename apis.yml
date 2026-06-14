@@ -1,0 +1,52 @@
+aid: pothos
+name: Pothos
+description: "TypeScript-first GraphQL schema builder with a plugin system for Prisma, Relay, federation, simple objects, and code-first type-safe schema construction without code generation."
+type: Index
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://pothos-graphql.dev/
+baseURL: https://pothos-graphql.dev/
+created: 2026-06-14
+modified: 2026-06-14
+specificationVersion: '0.19'
+tags:
+  - GraphQL
+  - TypeScript
+  - Schema Builder
+  - Code First
+  - Plugin System
+apis:
+  - aid: pothos:graphql-api
+    name: Pothos GraphQL API
+    description: "Plugin-based GraphQL schema builder for TypeScript that enables type-safe, code-first schema construction with zero runtime overhead and no code generation required. Supports plugins for Prisma, Relay, Dataloader, Auth, Validation, Errors, Tracing, Drizzle, and more."
+    tags:
+      - GraphQL
+      - TypeScript
+      - Schema Builder
+      - Code First
+    humanURL: https://pothos-graphql.dev/docs
+    baseURL: https://pothos-graphql.dev/
+    properties:
+      - url: https://pothos-graphql.dev/docs
+        type: Documentation
+      - url: graphql/pothos-graphql.md
+        type: GraphQL
+common:
+  - url: https://pothos-graphql.dev/
+    type: Website
+  - url: https://pothos-graphql.dev/docs
+    type: Documentation
+  - url: https://github.com/hayes/pothos
+    type: GitHubOrganization
+  - url: https://www.npmjs.com/package/@pothos/core
+    type: NPM
+  - url: https://discord.gg/mNe73qvwAB
+    type: Discord
+  - url: plans/pothos-plans.md
+    type: Plans
+  - url: rate-limits/pothos-rate-limits.md
+    type: RateLimits
+  - url: finops/pothos-finops.md
+    type: FinOps
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
