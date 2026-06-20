@@ -2,7 +2,7 @@ aid: pothos
 name: Pothos
 description: "TypeScript-first GraphQL schema builder with a plugin system for Prisma, Relay, federation, simple objects, and code-first type-safe schema construction without code generation."
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://pothos-graphql.dev/
 baseURL: https://pothos-graphql.dev/
 created: 2026-06-14
