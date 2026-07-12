@@ -31,6 +31,8 @@ apis:
       - url: graphql/pothos-graphql.md
         type: GraphQL
 common:
+  - type: DomainSecurity
+    url: security/pothos-domain-security.yml
   - url: https://pothos-graphql.dev/
     type: Website
   - url: https://pothos-graphql.dev/docs
