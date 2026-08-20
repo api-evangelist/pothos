@@ -23,6 +23,12 @@ tags:
   - GraphQL
   - TypeScript
   - Schema Builder
+  - Code-First
+  - Plugin System
+tags_raw:
+  - GraphQL
+  - TypeScript
+  - Schema Builder
   - Code First
   - Plugin System
 apis:
@@ -30,6 +36,11 @@ apis:
     name: Pothos GraphQL API
     description: "Plugin-based GraphQL schema builder for TypeScript that enables type-safe, code-first schema construction with zero runtime overhead and no code generation required. Supports plugins for Prisma, Relay, Dataloader, Auth, Validation, Errors, Tracing, Drizzle, and more."
     tags:
+      - GraphQL
+      - TypeScript
+      - Schema Builder
+      - Code-First
+    tags_raw:
       - GraphQL
       - TypeScript
       - Schema Builder
