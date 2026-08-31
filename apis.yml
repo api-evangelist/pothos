@@ -34,7 +34,7 @@ tags:
   - GraphQL
   - TypeScript
   - Schema Builder
-  - Code-First
+  - Code First
   - Plugin System
 tags_raw:
   - GraphQL
@@ -50,7 +50,7 @@ apis:
       - GraphQL
       - TypeScript
       - Schema Builder
-      - Code-First
+      - Code First
     tags_raw:
       - GraphQL
       - TypeScript
