@@ -57,7 +57,6 @@ apis:
       - Schema Builder
       - Code First
     humanURL: https://pothos-graphql.dev/docs
-    baseURL: https://pothos-graphql.dev/
     properties:
       - url: https://pothos-graphql.dev/docs
         type: Documentation
